@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu May 09 12:34:34 IST 2019
+0e457066c91fff7265565a4b26662058120af9dd@proxy.cognizant.com\:6050>@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1557385474836
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-beans\:jar\:5.0.2.RELEASE from/to central (https\://repo.maven.apache.org/maven2)\: C\:\\Users\\768744\\.m2\\repository\\org\\springframework\\spring-beans\\5.0.2.RELEASE\\aether-ff5b5595-3bb4-4bee-b92d-128a2d7ce2c8-spring-beans-5.0.2.RELEASE.jar-in-progress (The system cannot find the file specified)
